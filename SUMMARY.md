@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to GitHub Pages](README.md)
+* [Unbanking the Next Billion](README.md)
 * [Where?](where.md)
 * [Why?](why.md)
 * [How?](how.md)
