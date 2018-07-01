@@ -6,7 +6,9 @@ description: >-
 
 # pavel.paperbank.eth
 
-## Can I become who I want to be?
+![](.gitbook/assets/image.png)
+
+## Where can I access this loan?
 
 [https://plex.dharma.io/fill/loan?amortizationUnit=months&collateralAmount=500000000000000000&c](https://plex.dharma.io/fill/loan?amortizationUnit=months&collateralAmount=500000000000000000&c)
 
