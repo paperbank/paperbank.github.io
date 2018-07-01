@@ -26,7 +26,7 @@
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-path-parameters %}
-{% api-method-parameter name="" type="string" required=false %}
+{% api-method-parameter name="" type="string" required=true %}
 
 {% endapi-method-parameter %}
 {% endapi-method-path-parameters %}
@@ -46,10 +46,10 @@
 {% endapi-method-spec %}
 {% endapi-method %}
 
->
+> Test
 
-* [ ] One
-* [ ] Two
+* [x] One
+* [x] Two
 * [ ] Three
 * [ ] Four
 
