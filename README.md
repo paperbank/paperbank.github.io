@@ -14,38 +14,6 @@
 
 {% endhint %}
 
-{% api-method method="get" host="" path="" %}
-{% api-method-summary %}
-
-{% endapi-method-summary %}
-
-{% api-method-description %}
-
-{% endapi-method-description %}
-
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="" type="string" required=true %}
-
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
-{% endapi-method-request %}
-
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-
-{% endapi-method-response-example-description %}
-
-```
-
-```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
-
 > Test
 
 * [x] One
@@ -53,17 +21,12 @@
 * [ ] Three
 * [ ] Four
 
-```text
-
-```
-
+| KUTUPALONG.PAPERBANK.ETH | 0xf7cE7780cB0053B2AACf6e32a7e97250Ddd75db6 |
+| --- | --- | --- | --- | --- |
+| pavel.kutupalong.paperbank.eth | 0xf7cE7780cB0053B2AACf6e32a7e97250Ddd75db6 |
+| sorit.kutupalong.papaerbank.eth |  |
 |  |  |
-| --- | --- |
 |  |  |
-
-$$
-a = b
-$$
 
 
 
