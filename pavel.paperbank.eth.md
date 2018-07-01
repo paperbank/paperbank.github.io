@@ -1,8 +1,8 @@
 ---
 description: >-
   Here are the details of loan request:
-  0x30fd35c56096ac5aafa76fd4e36affd682fec943fdc2bab1b879b244363fa1d4. If the
-  terms look fair to you, fill the loan and your transaction will be completed.
+  0x30fd35c56096ac5aafa76fd4e36affd682fec943fdc2bab1b879b244363fa1d4.
+  https://plex.dharma.io/fill/loan?amortizationUnit=months&collateralAmount=500000000000000000&c
 ---
 
 # pavel.paperbank.eth
