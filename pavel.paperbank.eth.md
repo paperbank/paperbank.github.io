@@ -1,15 +1,14 @@
 ---
 description: >-
-  Here are the details of loan request:
+  Below are the details of loan request:
   0x30fd35c56096ac5aafa76fd4e36affd682fec943fdc2bab1b879b244363fa1d4.
-  https://plex.dharma.io/fill/loan?amortizationUnit=months&collateralAmount=500000000000000000&c
 ---
 
 # pavel.paperbank.eth
 
 ## Can I become who I want to be?
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+[https://plex.dharma.io/fill/loan?amortizationUnit=months&collateralAmount=500000000000000000&c](https://plex.dharma.io/fill/loan?amortizationUnit=months&collateralAmount=500000000000000000&c)
 
 ## Have you had a chance to answer the previous question?
 
