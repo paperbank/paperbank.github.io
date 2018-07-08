@@ -14,6 +14,10 @@
       "value": "fierce"
     }, 
     {
+      "trait_type": "investor_experience",
+      "value": “excellent”
+    },
+    {
       "display_type": "boost_number", 
       "trait_type": "lending_power", 
       "value": 10
@@ -32,5 +36,5 @@
   "description": "This auspicious beast is providing a life changing loan for our friends in Myanmar.", 
   "externalUrl": "https://paperbank.org/1", 
   "imageUrl": "https://cldup.com/THMDYNQorW-1200x1200.png", 
-  "name": "Mr. Brahma"
+  "name": "Brahma"
 }
