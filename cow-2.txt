@@ -32,5 +32,5 @@
   "description": "These auspicious beasts are providing a life changing loan for our friends in Gujarat, India.", 
   "externalUrl": "https://paperbank.org/2", 
   "imageUrl": "https://si.wsj.net/public/resources/images/BN-OM946_indcow_J_20160616061338.jpg", 
-  "name": "Raja Devi"
+  "name": "RajaDevi"
 }
