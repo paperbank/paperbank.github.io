@@ -36,5 +36,5 @@
   "description": "This auspicious beast is providing a life changing loan for our friends in Myanmar.", 
   "externalUrl": "https://paperbank.org/1", 
   "imageUrl": "https://cldup.com/THMDYNQorW-1200x1200.png", 
-  "name": "Brahma"
+  "name": "Brahm"
 }
