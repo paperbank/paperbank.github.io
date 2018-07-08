@@ -2,7 +2,7 @@
   "attributes": [
     {
       "trait_type": "level", 
-      "value": 5
+      "value": 4
     }, 
     {
       "max_value": 100, 

@@ -16,7 +16,7 @@
     {
       "display_type": "boost_number", 
       "trait_type": "lending_power", 
-      "value": 10
+      "value": 9
     }, 
     {
       "display_type": "boost_percentage", 
@@ -26,11 +26,11 @@
     {
       "display_type": "number", 
       "trait_type": "generation", 
-      "value": 4
+      "value": 5
     }
-  ], 
+  ],  
   "description": "This auspicious beast is providing a life changing loan for our friends in New Delhi, India.", 
-  "externalUrl": "https://paperbank.org/4", 
-  "imageUrl": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/05/21/09/india-cow.jpg", 
-  "name": "Ram Ram"
+  "externalUrl": "https://paperbank.org/6", 
+  "imageUrl": "https://cldup.com/QfI_ssmUo2-3000x3000.png", 
+  "name": "Haridwar"
 }

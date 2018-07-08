@@ -16,7 +16,7 @@
     {
       "display_type": "boost_number", 
       "trait_type": "lending_power", 
-      "value": 10
+      "value": 8
     }, 
     {
       "display_type": "boost_percentage", 
