@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Unbanking the Next Billion](README.md)
-* [Where?](where.md)
-* [Why?](why.md)
-* [How?](how.md)
-* [Who?](who.md)
+* [pavel.paperbank.eth](pavel.paperbank.eth.md)
+* [sorit.paperbank.eth](sorit.paperbank.eth.md)
+* [akash.paperbank.eth](akash.paperbank.eth.md)
+* [ahmed.paperbank.eth](ahmed.paperbank.eth.md)
 
