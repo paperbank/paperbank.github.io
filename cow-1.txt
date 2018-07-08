@@ -14,10 +14,6 @@
       "value": "fierce"
     }, 
     {
-      "trait_type": "investor_experience",
-      "value": “excellent”
-    },
-    {
       "display_type": "boost_number", 
       "trait_type": "lending_power", 
       "value": 10
@@ -32,9 +28,9 @@
       "trait_type": "generation", 
       "value": 1
     }
-  ], 
-  "description": "This auspicious beast is providing a life changing loan for our friends in Myanmar.", 
-  "externalUrl": "https://paperbank.org/1", 
-  "imageUrl": "https://cldup.com/THMDYNQorW-1200x1200.png", 
-  "name": "Brahm"
+  ],  
+  "description": "These auspicious beasts are providing a life changing loan for our friends in Gujarat, India.", 
+  "externalUrl": "https://paperbank.org/2", 
+  "imageUrl": "https://si.wsj.net/public/resources/images/BN-OM946_indcow_J_20160616061338.jpg", 
+  "name": “Brahma”
 }
