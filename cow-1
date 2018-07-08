@@ -1,0 +1,36 @@
+{
+  "attributes": [
+    {
+      "trait_type": "level", 
+      "value": 5
+    }, 
+    {
+      "max_value": 100, 
+      "trait_type": "stamina", 
+      "value": 90.2
+    }, 
+    {
+      "trait_type": "personality", 
+      "value": "fierce"
+    }, 
+    {
+      "display_type": "boost_number", 
+      "trait_type": "lending_power", 
+      "value": 10
+    }, 
+    {
+      "display_type": "boost_percentage", 
+      "trait_type": "stamina_increase", 
+      "value": 5
+    }, 
+    {
+      "display_type": "number", 
+      "trait_type": "generation", 
+      "value": 1
+    }
+  ], 
+  "description": "This auspicious beast is providing a life changing loan for our friends in Myanmar.", 
+  "externalUrl": "https://paperbank.org/1", 
+  "imageUrl": "https://cldup.com/THMDYNQorW-1200x1200.png", 
+  "name": "Mr. Brahma"
+}

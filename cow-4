@@ -1,0 +1,36 @@
+{
+  "attributes": [
+    {
+      "trait_type": "level", 
+      "value": 5
+    }, 
+    {
+      "max_value": 100, 
+      "trait_type": "stamina", 
+      "value": 90.2
+    }, 
+    {
+      "trait_type": "personality", 
+      "value": "fierce"
+    }, 
+    {
+      "display_type": "boost_number", 
+      "trait_type": "lending_power", 
+      "value": 10
+    }, 
+    {
+      "display_type": "boost_percentage", 
+      "trait_type": "stamina_increase", 
+      "value": 5
+    }, 
+    {
+      "display_type": "number", 
+      "trait_type": "generation", 
+      "value": 4
+    }
+  ], 
+  "description": "This auspicious beast is providing a life changing loan for our friends in New Delhi, India.", 
+  "externalUrl": "https://paperbank.org/4", 
+  "imageUrl": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/05/21/09/india-cow.jpg", 
+  "name": "Ram Ram"
+}
